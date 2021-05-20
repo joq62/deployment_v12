@@ -1,0 +1,10 @@
+{[{service,"support"},{vsn,"1.0.0"},{instances,1},
+  {host,all,[]},{slave,one_of,["master"]}],
+  [{service,"master"},{vsn,"1.0.0"},{instances,1},
+  {host,all,[]},{slave,one_of,["master"]}],
+  [{service,"service"},{vsn,"1.0.0"},{instances,1},
+  {host,all,[]},{slave,one_of,["master"]}],
+  [{service,"cluster"},{vsn,"1.0.0"},{instances,1},
+  {host,all,[]},{slave,one_of,["master"]}],
+
+}.
