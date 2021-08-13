@@ -1,3 +1,0 @@
-{[{service,"support"},{vsn,"1.0.0"},{instances,1},
-  {host,all,[]},{slave,one_of,["master"]}]
-  }.
