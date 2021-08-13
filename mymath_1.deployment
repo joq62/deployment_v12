@@ -1,1 +1,3 @@
-[{pod_id,"mymath.pod_spec"},{host,"c0"},{cluster,"lgh"}].
+{pod_id,"mymath.pod_spec"}.
+{host,"c0"}.
+{cluster,"lgh"}.
