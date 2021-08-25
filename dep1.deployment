@@ -1,4 +1,5 @@
 {name,"dep_1"}.
 {vsn,"1.0.0"}.
-{pods,[{"mymath","1.0.0",4}]}.
-{cluster,"lgh"}.
+{pods,[{"mymath","1.0.0",3}]}.
+{hosts,[]}.
+{cluster_id,"lgh"}.
