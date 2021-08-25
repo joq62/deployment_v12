@@ -1,0 +1,4 @@
+{deployment_id,"mymath_lgh_c0"}.
+{pod_id,"mymath"}.
+{host,"c0"}.
+{cluster,"lgh"}.
