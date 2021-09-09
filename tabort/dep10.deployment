@@ -1,0 +1,4 @@
+{name,"dep_10"}.
+{vsn,"1.0.0"}.
+{pods,[{"mymath","1.0.0",2}]}.
+{cluster_id,"stage"}.

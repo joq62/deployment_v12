@@ -1,0 +1,4 @@
+{name,"dep_2"}.
+{vsn,"1.0.0"}.
+{pods,[{"support_c0_lgh","1.0.0",1}]}.
+{cluster_id,"lgh"}.

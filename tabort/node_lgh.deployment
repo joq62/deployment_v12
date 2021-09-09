@@ -1,0 +1,4 @@
+{name,"node_lgh"}.
+{vsn,"1.0.0"}.
+{apps,[{"support","1.0.0",all_hosts}]}.
+{cluster_id,"lgh"}.
