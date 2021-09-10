@@ -1,5 +1,0 @@
-{name,"kubelet"}.
-{vsn,"1.0.0"}.
-{pods,[{"support","1.0.0",1},
-       {"kubelet","1.0.0",1}]}.
-{cluster_id,"lgh"}.
