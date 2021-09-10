@@ -1,6 +1,6 @@
 {name,"math_lgh_1"}.
 {vsn,"1.0.0"}.
-{replicas,{3,[]}.
+{replicas,{3,[]}}.
 {apps,[{"mymath","1.0.0"},
        {"mydivi","1.0.0"}]}.	
 {cluster_id,"lgh"}.
